@@ -1,0 +1,7 @@
+{
+  "name": "FINAL-Học Toán Máy Tính Cầm Tay cùng TMT EDU",
+  "description": "Ứng dụng giải toán cao cấp chuyên sâu cho máy tính cầm tay, đồng dư, ước số và thừa số chuẩn TMT EDU.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
